@@ -1,0 +1,13 @@
+{"mail": {"from":"Wind Alert <postmaster@-.mailgun.org>",
+          "endpoint":"https://api.mailgun.net/v2/-.mailgun.org/messages",
+          "recipients":["-"],
+          "api-key":"-",
+          "enabled":false},
+ "spots":[{"name":"La Chaux-de-Fonds", "id":"ch7"},
+          {"name":"Saint-Sulpice",     "id":"ch36"},
+          {"name":"Yvonand",           "id":"ch1192"},
+          {"name":"Bière",             "id":"ch983"},
+          {"name":"Chasseral",         "id":"ch62"},
+          {"name":"La Brévine",        "id":"ch79"},
+          {"name":"Le Chenit(Joux)",   "id":"ch1283"},
+          {"name":"Simplon",           "id":"ch123"}]}
