@@ -8,7 +8,7 @@ Example of a clj webapp/notifier to find windy spots.
 lein run 8080
 ```
 
-Open your browser at 8080 and wait for measures to be fetched.
+Open your browser at http://localhost:8080 and wait for measures to be fetched.
 
 Set up your mailgun api-key, from & recipients fields inside ```resources/wind.json``` if you want to enable notifications.
 
